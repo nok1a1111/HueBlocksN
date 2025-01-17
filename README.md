@@ -1,5 +1,6 @@
 <p align=center><a href="https://1280px.github.io/hueblocks"><img src="https://raw.githubusercontent.com/1280px/hueblocks/main/readme-pic.png"></a><br>
-<i>Create beautiful block gradients in a few clicks! <a href="https://1280px.github.io/hueblocks">Web version available here</a></i></p>
+<i>Create beautiful block gradients in a few clicks! <a href="https://nok1a1111.github.io/HueBlocksN/">Web version available here</a></i></p>
+<a href="https://1280px.github.io/hueblocks">original</a>
 
 <b>HueBlocks is an online Minecraft block gradients generator powered by jQuery, Python and cinnamon latte. </b>
 <br>It's really simple to use: just enter two colours on a gradient bar and press the Big Black Button. That's it!
